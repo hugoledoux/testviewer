@@ -1,4 +1,6 @@
 
+<script id="asciicast-329789" src="https://asciinema.org/a/329789.js" async></script>
+
 # CityJSON viewer
 
 A simple web-viewer for [CityJSON](https://www.cityjson.org) files: drag-and-drop a file, wait a few milliseconds, and you see it. That's it.
